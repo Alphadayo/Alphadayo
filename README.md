@@ -1,4 +1,5 @@
 ## HELLO, WORLD!
+![Profile Image](https://github.com/alphadayo.png)
 I'm Alpha.
 
 ### My Github stats:
