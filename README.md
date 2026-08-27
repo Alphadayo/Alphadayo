@@ -1,5 +1,5 @@
 ## HELLO, WORLD!
-![Profile Image](https://github.com/alphadayo.png)
+![Profile Image](https://github.com/alphadayo.png = 200px)
 alphadayoです
 ScratchとかCodeTorchとかUnityとかやってます
 
